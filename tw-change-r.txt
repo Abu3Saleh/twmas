@@ -1,4 +1,4 @@
-Version 2.20. Changelog:
+Version 6.45. Changelog:
 
 >Update the base to the latest version in Google Play 16.20.36
 >Fixed an offline problem on some devices
