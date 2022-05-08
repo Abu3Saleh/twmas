@@ -1,6 +1,5 @@
-Version 6.45. Changelog:
+Version 6.75. Changelog:
 
->Update the base to the latest version in Google Play 16.20.36
->Fixed an offline problem on some devices
->Adding a lot of new features
->Bugs Fixed
+>[Update] Twitter Mas base to latest version 9.39.0 |  Play Store.
+>[ADD] All new Twitter features added
+>[More] Other improvements and fixes
