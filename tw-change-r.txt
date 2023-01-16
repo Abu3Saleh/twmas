@@ -1,5 +1,7 @@
-Version 6.75. Changelog:
+What's new in version 7.00:
 
->[Update] Twitter Mas base to latest version 9.39.0 |  Play Store.
->[ADD] All new Twitter features added
->[More] Other improvements and fixes
+>[Update] Twitter Mas base to the latest version 9.55.0 | Play Store.
+>[Add] All new Twitter features have been added.
+>[Add] Option to change API server (Twitter Mass add-ons > Downloads > Select API server).
+>[Add] Option to enter a custom API key (Twitter Mass add-ons > Downloads > Custom API key).
+>[More] Other improvements and fixes.
