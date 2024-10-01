@@ -1,4 +1,4 @@
-What's new in version 8.00:
+What's new in version 9.00:
 
 >[Update] Twitter Mas base to the latest version 10.39.0-release.0 | Play Store.
 >[Add] All new Twitter features have been added.
